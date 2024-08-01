@@ -17,8 +17,8 @@ Hello! I'm a young researcher who is interested in understanding and interpretin
 
 ## Collaborations so far
 - $\text{Pr}(A_i)^2R$. group: Working as an Intern under the guidance of [Dr. Atticus Geiger](https://scholar.google.com/citations?user=w2Qzno8AAAAJ&hl=en).
-- $\textSPIRE-Lab$: Worked as an intern on ASR systems and NLP under the guidance of [Prasanta Kumar Ghosh Sir](https://eecs.iisc.ac.in/people/prasanta-kumar-ghosh/).
-- $\textXu lab$: As a part of the Xu Lab worked on image classification and data analysis for Cryo_ET data.
+- SPIRE-Lab: Worked as an intern on ASR systems and NLP under the guidance of [Prasanta Kumar Ghosh Sir](https://eecs.iisc.ac.in/people/prasanta-kumar-ghosh/).
+- Xu lab: As a part of the Xu Lab worked on image classification and data analysis for Cryo_ET data.
 
 More information about awards and projects in the CV.
 
