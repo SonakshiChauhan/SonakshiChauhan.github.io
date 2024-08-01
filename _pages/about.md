@@ -8,42 +8,26 @@ redirect_from:
 ---
 ## About Me
 
-Hello! I am **Sonakshi Chauhan**, currently based in Glasgow, United Kingdom. I am pursuing my research at the University of Glasgow, focusing on understanding neural networks and their applications. With a keen interest in artificial intelligence, I aim to bridge the gap between human cognition and machine learning.
+Hello! I'm a young researcher who is interested in understanding and interpreting neural networks.Currently a research intern at the $\text{Pr}(A_i)^2R$. group. My absolute love lies in Causality, Interpretability and everything that makes neural networks more understandable to me. I also have experience in natural language processing and computer vision systems. I'm fond of reading fiction novels apart from research papers and blogs. Coffee, food, public speaking, and travelling are things always I'm looking out for. I'm crazy about collaborating and working with new people.
 
-## Research Interests
+## Education
 
-- **Artificial Intelligence**: Exploring the frontiers of AI and machine learning to create intelligent systems.
-- **Neural Networks**: Studying the intricacies of neural networks to improve their performance and efficiency.
-- **Cognitive Science**: Understanding human cognition and applying these principles to enhance AI systems.
+- I'll be pursuing my MS from University of Glasgow coming September.
+- I completed my B.tech in Computer Science branch from United College of Engineering and Research.
 
-## Projects
+## Collaborations so far
+- $\text{Pr}(A_i)^2R$. group: Working as an Intern under the guidance of [Dr. Atticus Geiger](https://scholar.google.com/citations?user=w2Qzno8AAAAJ&hl=en).
+- $\textSPIRE-Lab$: Worked as an intern on ASR systems and NLP under the guidance of [Prasanta Kumar Ghosh Sir](https://eecs.iisc.ac.in/people/prasanta-kumar-ghosh/).
+- $\textXu lab$: As a part of the Xu Lab worked on image classification and data analysis for Cryo_ET data.
 
-### Project 1: Neural Network Optimization
-Working on optimizing neural network algorithms to improve their accuracy and efficiency in various applications.
-
-### Project 2: AI for Healthcare
-Developing AI models to assist in medical diagnoses and treatment planning, aiming to revolutionize the healthcare industry.
-
-## Publications
-
-### Publication 1
-**Title**: Understanding Neural Networks  
-**Journal**: Journal of AI Research  
-**Abstract**: This paper delves into the workings of neural networks, presenting new methods to enhance their performance.
-
-### Publication 2
-**Title**: AI in Healthcare  
-**Journal**: Medical AI Journal  
-**Abstract**: An exploration of the applications of artificial intelligence in the healthcare sector, highlighting the potential benefits and challenges.
+More information about awards and projects in the CV.
 
 ## Contact Me
 
-I am always open to collaboration and discussion. Feel free to reach out to me through the following platforms:
+I'll happy to connect and discuss. Feel free to reach out to me through the following platforms:
 
-- **Email**: [sonakshi@example.com](mailto:sonakshi@example.com)
-- **LinkedIn**: [Sonakshi Chauhan](https://www.linkedin.com/in/sonakshi-chauhan/)
-- **Twitter**: [@SonakshiChauhan](https://twitter.com/SonakshiChauhan)
-- **GitHub**: [SonakshiChauhan](https://github.com/SonakshiChauhan)
+- **Email**: [sonakshi@example.com](mailto:sonakshichauhan1402@gmail.com)
+- **LinkedIn**: [Sonakshi Chauhan]([https://www.linkedin.com/in/sonakshi-chauhan/)](https://www.linkedin.com/in/sonakshi-chauhan-6bb508221/)
 
 Thank you for visiting my homepage!
 
