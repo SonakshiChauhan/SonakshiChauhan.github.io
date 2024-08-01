@@ -19,7 +19,7 @@ Hello! I'm a young researcher who is interested in understanding and interpretin
 ## Collaborations so far
 - <code>Pr(Ai)<sup>2</sup>R</code> group: Working as an Intern under the guidance of [Dr. Atticus Geiger](https://scholar.google.com/citations?user=w2Qzno8AAAAJ&hl=en).
 - SPIRE-Lab: Worked as an intern on ASR systems and NLP under the guidance of [Prasanta Kumar Ghosh Sir](https://eecs.iisc.ac.in/people/prasanta-kumar-ghosh/).
-- Xu lab: As a part of the Xu Lab, worked on image classification and data analysis for Cryo-ET data.
+- Xu lab: As a part of the Xu Lab run by [Professor Min Xu](https://cbd.cmu.edu/people/xu.html), worked on image classification and data analysis for Cryo-ET data.
 
 More information about awards and projects in the CV.
 
