@@ -7,4 +7,48 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+---
+layout: home
+title: Welcome to My Academic Homepage
+---
+## About Me
+
+Hello! I am **Sonakshi Chauhan**, currently based in Glasgow, United Kingdom. I am pursuing my research at the University of Glasgow, focusing on understanding neural networks and their applications. With a keen interest in artificial intelligence, I aim to bridge the gap between human cognition and machine learning.
+
+## Research Interests
+
+- **Artificial Intelligence**: Exploring the frontiers of AI and machine learning to create intelligent systems.
+- **Neural Networks**: Studying the intricacies of neural networks to improve their performance and efficiency.
+- **Cognitive Science**: Understanding human cognition and applying these principles to enhance AI systems.
+
+## Projects
+
+### Project 1: Neural Network Optimization
+Working on optimizing neural network algorithms to improve their accuracy and efficiency in various applications.
+
+### Project 2: AI for Healthcare
+Developing AI models to assist in medical diagnoses and treatment planning, aiming to revolutionize the healthcare industry.
+
+## Publications
+
+### Publication 1
+**Title**: Understanding Neural Networks  
+**Journal**: Journal of AI Research  
+**Abstract**: This paper delves into the workings of neural networks, presenting new methods to enhance their performance.
+
+### Publication 2
+**Title**: AI in Healthcare  
+**Journal**: Medical AI Journal  
+**Abstract**: An exploration of the applications of artificial intelligence in the healthcare sector, highlighting the potential benefits and challenges.
+
+## Contact Me
+
+I am always open to collaboration and discussion. Feel free to reach out to me through the following platforms:
+
+- **Email**: [sonakshi@example.com](mailto:sonakshi@example.com)
+- **LinkedIn**: [Sonakshi Chauhan](https://www.linkedin.com/in/sonakshi-chauhan/)
+- **Twitter**: [@SonakshiChauhan](https://twitter.com/SonakshiChauhan)
+- **GitHub**: [SonakshiChauhan](https://github.com/SonakshiChauhan)
+
+Thank you for visiting my homepage!
+
