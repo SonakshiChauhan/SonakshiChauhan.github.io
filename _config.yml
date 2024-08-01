@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://raw.githubusercontent.com/SonakshiChauhan/SonakshiChauhan.github.io/images/Prof_photo.jpeg"
+  avatar           : "https://raw.githubusercontent.com/SonakshiChauhan/SonakshiChauhan.github.io/master/Prof_photo.png"
   name             : "Sonakshi Chauhan"
   pronouns         : # example: "she/her"  
   bio              : "More Inclined towards understanding neural networks than humans."
