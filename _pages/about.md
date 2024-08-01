@@ -8,8 +8,8 @@ redirect_from:
 ---
 <!-- Include MathJax -->
 <!-- Include MathJax -->
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"> </script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
 ## About Me
 
 Hello! I'm a young researcher who is interested in understanding and interpreting neural networks.Currently a research intern at the $\text{Pr}(A_i)^2R$. group. My absolute love lies in Causality, Interpretability and everything that makes neural networks more understandable to me. I also have experience in natural language processing and computer vision systems. I'm fond of reading fiction novels apart from research papers and blogs. Coffee, food, public speaking, and travelling are things always I'm looking out for. I'm crazy about collaborating and working with new people.
