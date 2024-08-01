@@ -1,9 +1,3 @@
----
-layout: home
-title: Welcome to My Academic Homepage
----
-
-
 ## About Me
 
 Hello! I am **Sonakshi Chauhan**, currently based in Glasgow, United Kingdom. I am pursuing my research at the University of Glasgow, focusing on understanding neural networks and their applications. With a keen interest in artificial intelligence, I aim to bridge the gap between human cognition and machine learning.
