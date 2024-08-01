@@ -26,7 +26,7 @@ More information about awards and projects in the CV.
 
 I'll happy to connect and discuss. Feel free to reach out to me through the following platforms:
 
-- **Email**: [sonakshi@example.com](mailto:sonakshichauhan1402@gmail.com)
+- **Email**: [mail](mailto:sonakshichauhan1402@gmail.com)
 - **LinkedIn**: [Sonakshi Chauhan](https://www.linkedin.com/in/sonakshi-chauhan/)
 
 Thank you for visiting my homepage!
